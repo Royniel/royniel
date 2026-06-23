@@ -10,15 +10,15 @@
 
 <!-- Unified social badges -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-24292F?style=for-the-badge&logo=linkedin&logoColor=58A6FF" /></a>
-  <a href="mailto:roy.nil@northeastern.edu"><img src="https://img.shields.io/badge/Email-24292F?style=for-the-badge&logo=gmail&logoColor=58A6FF" /></a>
-  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=vercel&logoColor=58A6FF" /></a>
-  <a href="https://github.com/Royniel"><img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=58A6FF" /></a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=E8A317" /></a>
+  <a href="mailto:roy.nil@northeastern.edu"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=E8A317" /></a>
+  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=E8A317" /></a>
+  <a href="https://github.com/Royniel"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=E8A317" /></a>
 </p>
 
-<!-- Animated location swap -->
+<!-- Animated location swap (no emojis - they break the SVG) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=400&lines=📍+Boston%2C+MA;🌍+Open+to+relocation;💻+Open+to+remote" alt="Location" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2500&pause=1000&color=E8A317&center=true&vCenter=true&width=400&lines=Based+in+Boston%2C+MA;Open+to+relocation;Open+to+remote+roles" alt="Location" />
 </p>
 
 <br/>
