@@ -8,17 +8,17 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Shipping+real-time+systems+%26+AI+products;Java+%C2%B7+Spring+Boot+%C2%B7+Kafka+%C2%B7+React+Native;PyTorch+%C2%B7+LangGraph+%C2%B7+RAG+%C2%B7+Multimodal+LLMs;Master's+in+SE+%2B+AI+%E2%80%94+Northeastern+'25" alt="Typing tagline" />
 </p>
 
-<!-- Unified social badges -->
+<!-- Unified social badges (BLUE) -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=E8A317" /></a>
-  <a href="mailto:roy.nil@northeastern.edu"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=E8A317" /></a>
-  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=E8A317" /></a>
-  <a href="https://github.com/Royniel"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=E8A317" /></a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" /></a>
+  <a href="mailto:roy.nil@northeastern.edu"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF" /></a>
+  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=58A6FF" /></a>
+  <a href="https://github.com/Royniel"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" /></a>
 </p>
 
-<!-- Animated location swap (no emojis - they break the SVG) -->
+<!-- Animated location swap (BLUE) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2500&pause=1000&color=E8A317&center=true&vCenter=true&width=400&lines=Based+in+Boston%2C+MA;Open+to+relocation;Open+to+remote+roles" alt="Location" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=400&lines=Based+in+Boston%2C+MA;Open+to+relocation;Open+to+remote+roles" alt="Location" />
 </p>
 
 <br/>
