@@ -91,6 +91,21 @@ mantra:      "Reliability over novelty. Latency you can feel. Code that ships."
 </p>
 <br/>
 
+
+## <img src="https://api.iconify.design/lucide/route.svg?color=%23A371F7" height="26" />&nbsp; The Road So Far
+
+<h4>
+
+```text
+🩺  Vertige         Full-Stack Engineer   Jan 2025 — Present   Philadelphia (Remote)
+💼  Cynet Systems   Full-Stack Engineer   Sep 2022 — Aug 2023  Noida, India
+🎟  Mastech Digital Full-Stack Engineer   Jan 2021 — Sep 2022  Noida, India
+```
+
+</h4>
+
+<br/>
+
 ## <img src="https://api.iconify.design/lucide/ship.svg?color=%23A371F7" height="26" />&nbsp; Things I've Shipped
 
 <table>
@@ -129,20 +144,6 @@ mantra:      "Reliability over novelty. Latency you can feel. Code that ships."
 > **Reliability over novelty** — zero-rollback releases · fault-tolerant Kafka · JUnit-first  
 > **Latency you can feel** — 30% retrieval gains · 18% page load cuts · <5s cold starts  
 > **Code that ships** — 5 years of production microservices, mobile apps, and AI systems users actually touched
-
-</h4>
-
-<br/>
-
-## <img src="https://api.iconify.design/lucide/route.svg?color=%23A371F7" height="26" />&nbsp; The Road So Far
-
-<h4>
-
-```text
-🩺  Vertige         Full-Stack Engineer   Jan 2025 — Present   Philadelphia (Remote)
-💼  Cynet Systems   Full-Stack Engineer   Sep 2022 — Aug 2023  Noida, India
-🎟  Mastech Digital Full-Stack Engineer   Jan 2021 — Sep 2022  Noida, India
-```
 
 </h4>
 
